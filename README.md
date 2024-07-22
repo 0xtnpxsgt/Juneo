@@ -18,7 +18,7 @@ Storage: SSD or NVMe with at least 160GB of space.
 
 Form link: https://juneo.com/forms
 
-#### Step 2: 
+#### Step 2: Update & Upgrade
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
