@@ -137,6 +137,7 @@ Note: In order to stake, you must have funds on *Platform-Chain*. Use the *Cross
 ### Check Node Status:
 - After the transaction is complete, go to https://mcnscan.io/validator/validator-list.
 - Enter your NodeID in the search bar to check the status of your node.
+![image](https://github.com/user-attachments/assets/931e0445-9bcc-4df6-955c-3be37fc18664)
 
 
 Congratulations! Your node should now be part of the validator set and actively participating in the network validation process.
