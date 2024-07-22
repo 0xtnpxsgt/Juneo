@@ -23,7 +23,7 @@ Form link: https://juneo.com/forms
 sudo apt update && sudo apt upgrade -y
 ```
 
-#### Step 3: Install Allora ( This will take time )
+#### Step 3: Install Dependencies 
 ```bash
 sudo apt install curl git wget build-essential jq screen -y
 ```
