@@ -141,7 +141,7 @@ Note: In order to stake, you must have funds on *Platform-Chain*. Use the *Cross
 
 Congratulations! Your node should now be part of the validator set and actively participating in the network validation process.
 
-Having problem with the setup? Join us on discord: at:[https://discord.gg/juneosupernet](https://discord.gg/QTAqpuRDhP)
+Having problem with the setup? Join us on discord: at:https://discord.gg/QTAqpuRDhP
 
 
 
